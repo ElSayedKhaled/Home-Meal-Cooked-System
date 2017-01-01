@@ -1,0 +1,1 @@
+EXEC GetLadies @Area = 'Shubra'

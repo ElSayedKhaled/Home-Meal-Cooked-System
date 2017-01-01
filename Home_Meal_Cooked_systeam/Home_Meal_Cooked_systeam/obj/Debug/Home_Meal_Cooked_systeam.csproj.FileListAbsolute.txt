@@ -1,0 +1,42 @@
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\bin\Debug\Home_Meal_Cooked_systeam.exe.config
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\bin\Debug\Home_Meal_Cooked_systeam.exe
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\bin\Debug\Home_Meal_Cooked_systeam.pdb
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.Form1.resources
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.Properties.Resources.resources
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.csproj.GenerateResource.Cache
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.exe
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.pdb
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.insert.resources
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.csprojResolveAssemblyReference.cache
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.UP_ITEM.resources
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.DEL_ITEM.resources
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.AD_order.resources
+c:\users\younis\documents\visual studio 2012\Projects\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.DEL_ORDER.resources
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\bin\Debug\Home_Meal_Cooked_systeam.exe.config
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.exe
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.pdb
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\bin\Debug\Home_Meal_Cooked_systeam.exe
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\bin\Debug\Home_Meal_Cooked_systeam.pdb
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.DEL_ITEM.resources
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.DEL_ORDER.resources
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.Form1.resources
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.AD_order.resources
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.Properties.Resources.resources
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.insert.resources
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.UP_ITEM.resources
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.csproj.GenerateResource.Cache
+D:\To 2nd Year\IS\PROJECT\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.csprojResolveAssemblyReference.cache
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\bin\Debug\Home_Meal_Cooked_systeam.exe.config
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.exe
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.pdb
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.DEL_ITEM.resources
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.DEL_ORDER.resources
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.Form1.resources
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.AD_order.resources
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.Properties.Resources.resources
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.insert.resources
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.UP_ITEM.resources
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.csproj.GenerateResource.Cache
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\bin\Debug\Home_Meal_Cooked_systeam.exe
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\bin\Debug\Home_Meal_Cooked_systeam.pdb
+C:\Users\elsay\Desktop\New folder\Home_Meal_Cooked_systeam\Home_Meal_Cooked_systeam\obj\Debug\Home_Meal_Cooked_systeam.csprojResolveAssemblyReference.cache
